@@ -1,0 +1,15 @@
+{
+    "image": "conversation/say-hello",
+    "endpoint": "/say-hello",
+    "config": {
+        "ports": [
+            {
+                "hostPort": 9772,
+                "containerPort": 8080
+            }
+        ],
+        "environment": {
+            "SAY_HELLO_TO": "Rightmove"
+        }
+    }
+}
