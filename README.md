@@ -6,7 +6,7 @@ Here is a solution for the interview question sent to me by the recruiter. This 
 
 ## Requirements
 
-Essentially, the requirement is to instantiate a container using an image that is already available on the current host.
+Essentially, the requirement is to instantiate a container using an image that is already available on the current host. The image and other details for the to be createdcontainer are to be pulled by making a call to another endpoint running on the localhost
 
 ## Tooling used
 
